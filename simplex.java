@@ -205,7 +205,8 @@ public class simplex extends javax.swing.JFrame {
             }
         });
     }
-
+ // hola esto es una prueba
+ 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField columnas;
     private javax.swing.JTextField filas;
